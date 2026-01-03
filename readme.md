@@ -1,2 +1,2 @@
-#GIT sample
+# GIT sample
 this is a sample 
